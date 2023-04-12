@@ -1,0 +1,12 @@
+# this is the default property files. All environments will share those parameters
+accounts.msg=Welcome to microservices.com Cards default application
+accounts.build-version=1
+
+accounts.mailDetails.hostName=cards@mail.com
+accounts.mailDetails.port=9000
+acounts.mailDetails.from=cards@mail.com
+acounts.mailDetails.subject=Environment details
+
+accounts.activeBranches[0]=Marseille
+accounts.activeBranches[1]=Aix En Provence
+accounts.activeBranches[2]=Toulon
